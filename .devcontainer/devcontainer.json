@@ -13,7 +13,7 @@
         "ms-python.python",
         "ms-python.debugpy"
       ]
-  "postCreateCommand": ".devcontainer/postCreate.sh"    
     }
-  }
+  },
+  "postCreateCommand": ".devcontainer/postCreate.sh"
 }
